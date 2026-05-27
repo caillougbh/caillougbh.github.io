@@ -8,7 +8,7 @@ description: "I am a student at Richland High School and I have always had a lov
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: TEST 1
   pic: 1
   position: Lead Designer
   social:
@@ -19,7 +19,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: I HOPE THIS WORKS
   pic: 2
   position: Lead Marketer
   social:
@@ -30,7 +30,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: blah
   pic: 3
   position: Lead Developer
   social:

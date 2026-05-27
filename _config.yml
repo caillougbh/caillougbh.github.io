@@ -8,37 +8,37 @@ description: "I am a student at Richland High School and I have always had a lov
 
 # Team names, titles and social links
 people:
-- name: TEST 1
-  pic: 1
-  position: Lead Designer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
+    - title: #
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: stack-overflow
+    - title: #
       url: #
 
 - name: I HOPE THIS WORKS
-  pic: 2
-  position: Lead Marketer
+  pic: 
+  position: ME
   social:
-    - title: twitter
+    - title: e
       url: #
-    - title: facebook
+    - title: f
       url: #
-    - title: linkedin
+    - title: g
       url: #
 
-- name: blah
-  pic: 3
-  position: Lead Developer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
+    - title: #
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: google-plus
+    - title: #
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -56,8 +56,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 930 Long Ave, WA
 
 # Build settings
 markdown: kramdown

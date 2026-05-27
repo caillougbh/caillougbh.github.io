@@ -6,16 +6,6 @@ title: About Me - Caillou B. G. Hoang
 email: caillou.gbh@gmail.com
 description: "I am a student at Richland High School and I have always had a love for gaming and coding, which drove my interest in Computer Science."
 
-## Skills
-- Languages:
-  - Java
-  - JavaScript
-  - Python
-- Problem-Solving and Math
-
-## Career Goals
-I want to thrive in a tech-based career, possibly engineering.
-
 # Team names, titles and social links
 people:
 - name: Kay Garland
@@ -73,3 +63,13 @@ address:
 markdown: kramdown
 permalink: pretty
 permalink: pretty
+
+## Skills
+- Languages:
+  - Java
+  - JavaScript
+  - Python
+- Problem-Solving and Math
+
+## Career Goals
+I want to thrive in a tech-based career, possibly engineering.

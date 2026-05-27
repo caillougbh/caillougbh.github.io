@@ -2,8 +2,8 @@ url: https://caillougbh.github.io
 baseurl: ""
 
 # Site settings
-title: About Me - Caillou B. G. Hoang
-email: caillou.gbh@gmail.com
+title: "About Me - Caillou B. G. Hoang"
+email: "caillou.gbh@gmail.com"
 description: "I am a student at Richland High School and I have always had a love for gaming and coding, which drove my interest in Computer Science."
 
 # Team names, titles and social links
@@ -63,13 +63,3 @@ address:
 markdown: kramdown
 permalink: pretty
 permalink: pretty
-
-## Skills
-- Languages:
-  - Java
-  - JavaScript
-  - Python
-- Problem-Solving and Math
-
-## Career Goals
-I want to thrive in a tech-based career, possibly engineering.

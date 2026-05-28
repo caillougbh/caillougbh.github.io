@@ -6,7 +6,7 @@ modal-id: 1
 date: 2014-07-18
 img: img/portfolio/Screenshot 2026-05-28 094541.png
 thumbnail: img/portfolio/Screenshot 2026-05-28 094541.png
-alt: image-alt
+alt: img/portfolio/Screenshot 2026-05-28 094541.png
 project-date: May-Jul 2025
 client: Start Bootstrap
 category: Web Development

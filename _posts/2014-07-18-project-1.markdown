@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: MakeCore
+subtitle: Game Site
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: May-Jul 2025
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: MakeCore started as a google slideshow for me and my friends to post our games made on Microsoft's MakeCode Arcade, but one of my friends had the idea and capability to realise it into a website. Leo Lu, the key contributor, Liam Armenta, the main artist, and I, who supported the two of them in their roles, created MakeCore, which now houses games of many genres and playforms from a small community, grown from our original group.
 
 ---

@@ -4,8 +4,8 @@ subtitle: Game Hub
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams-thumbnail.png
-thumbnail: MakeCore.png
+img: MakeCore2.png
+thumbnail: MakeCore2.png
 alt: image-alt
 project-date: May - Jul 2025
 client: None

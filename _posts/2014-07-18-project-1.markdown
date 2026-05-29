@@ -4,9 +4,9 @@ subtitle: Game Site
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: img/portfolio/Screenshot 2026-05-28 094541.png
-thumbnail: img/portfolio/Screenshot 2026-05-28 094541.png
-alt: img/portfolio/Screenshot 2026-05-28 094541.png
+img: MakeCore Logo.png
+thumbnail: MakeCore Logo.png
+alt: image-alt
 project-date: May - Jul 2025
 client: 
 category: 

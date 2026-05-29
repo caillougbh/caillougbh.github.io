@@ -4,8 +4,8 @@ subtitle: Game Site
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: MakeCore
+thumbnail: MakeCore
 alt: image-alt
 project-date: May - Jul 2025
 client: None

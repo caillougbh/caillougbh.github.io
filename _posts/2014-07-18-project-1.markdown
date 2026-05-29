@@ -5,7 +5,6 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: MakeCore.png
-<!-- test picture -->
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: May - Jul 2025

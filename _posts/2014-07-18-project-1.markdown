@@ -8,6 +8,6 @@ img: MakeCore2.png
 thumbnail: MakeCore2.png
 alt: image-alt
 project-date: May - Jul 2025
-url: https://makecore.org
+website: https://makecore.org
 description: MakeCore.org started as a google slideshow for me and my friends to post our games made on Microsoft's MakeCode Arcade, but one of my friends had the idea and capability to realise it into a website. Leo Lu - the Main Developer, Liam Armenta - the Main Graphic Designer, and I, a Supporting Graphic Designer, created MakeCore, which now houses games of many genres and playforms from a small community, grown from our original group. We used Google Slides as our art medium and learned how to workaround limited tools and resources to create art, as we were on our school chromebooks.
 ---

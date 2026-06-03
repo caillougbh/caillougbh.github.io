@@ -56,7 +56,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 930 Long Ave, WA
+  - line: 
 
 # Build settings
 markdown: kramdown

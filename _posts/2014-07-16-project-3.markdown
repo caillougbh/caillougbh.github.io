@@ -3,11 +3,11 @@ title: Procrastination Clicker
 subtitle: Basic Clicker Game
 layout: default
 modal-id: 3
-date: 2025
+date: 2025-01-01
 img: hwclickerlogo.png
 thumbnail: hwclickerlogo.png
 alt: image-alt
-project-date: 2025
+project-date: Jan 2025
 website: https://makecode.com/_8ua9YYW47czT
 description: This was a passion project based off of the popular game Cookie Clicker that I instead themed around homework and procrastination, as this was an issue that I was facing at the time of creation. I discovered how to save and store player data and change variables dynamically with limited resources in a platform like MakeCode Arcade.
 

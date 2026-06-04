@@ -1,15 +1,14 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Procrastination Clicker
+subtitle: Basic Clicker Game
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2025
+img: hwclickerlogo.png
+thumbnail: hwclickerlogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2025
+website: https://makecode.com/_8ua9YYW47czT
+description: This was a passion project based off of the popular game Cookie Clicker that I instead themed around homework and procrastination, as this was an issue that I was facing at the time of creation. I discovered how to save and store player data and change variables dynamically with limited resources in a platform like MakeCode Arcade.
 
 ---

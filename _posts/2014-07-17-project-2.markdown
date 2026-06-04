@@ -3,12 +3,12 @@ title: Escape
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2026-05-06
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: codehslogo.webp
 alt: image-alt
-project-date: April 2014
+project-date: May 2026
 website: https://codehs.com/share/id/tic-tac-toe-game-part-2-ri0OOy/run
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This is an extra credit project assigned to me in my AP Comupter Science A class, where I utilized logical operators, booleans, arrays, and other functions of Java coding to create a looping and functioning tic tac toe game after overcoming challenges such as creating specific conditions using if statements.
 
 ---
